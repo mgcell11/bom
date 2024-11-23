@@ -8,7 +8,7 @@ pkg install git
 
 pkg install php
 
-git clone https://github.com/mgcell11/bom
+git clone https://github.com/mgcell11/bom (jika gagal hapus dulu file lama)
 
 cd bom
 
