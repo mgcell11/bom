@@ -6,6 +6,8 @@ Link Termux Apk : https://f-droid.org/repo/com.termux_118.apk
 
 In Termux :
 
+pkg upgrade
+
 pkg install git
 
 pkg install php
