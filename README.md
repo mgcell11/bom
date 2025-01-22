@@ -1,4 +1,4 @@
-# VERSION 1.1.8 (Whatsapp Only)
+# VERSION 1.2.0 (Whatsapp Only)
 
 Updated : 22-01-2025 
 
