@@ -1,4 +1,6 @@
-# VERSION 1.1.2 (Whatsapp Only)
+# VERSION 1.1.3 (Whatsapp Only)
+
+Updated : 22-01-2025 
 
 Link Termux Apk : https://f-droid.org/repo/com.termux_118.apk
 
