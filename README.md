@@ -1,7 +1,7 @@
-# VERSION 1.2.6 (Whatsapp +62 Only)
+# VERSION 1.2.7 (Whatsapp +62 Only)
 # BOM WHATSAPP / SPAM WHATSAPP
 
-Updated : 05-FEB-2025 
+Updated : 09-FEB-2025 
 
 Link Termux Apk : https://f-droid.org/repo/com.termux_118.apk
 
