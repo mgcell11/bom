@@ -1,4 +1,4 @@
-# VERSION 1.3.2 (Whatsapp +62 Only)
+# VERSION 1.3.3 (Whatsapp +62 Only)
 # BOM WHATSAPP / SPAM WHATSAPP
 
 Updated : 23-MAR-2025 
